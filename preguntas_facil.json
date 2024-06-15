@@ -1,0 +1,208 @@
+[
+    {
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+        "opciones": ["1492", "1500", "1510", "1520"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el metal más caro del mundo?",
+        "opciones": ["Platino", "Oro", "Rodio", "Paladio"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién escribió la obra 'Don Quijote de la Mancha'?",
+        "opciones": ["Miguel de Cervantes", "Lope de Vega", "Garcilaso de la Vega", "Francisco de Quevedo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": ["Canadá", "Rusia", "China", "Estados Unidos"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1939", "1941", "1945", "1935"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+        "opciones": ["Mandarín", "Inglés", "Español", "Hindi"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué famoso científico formuló la teoría de la relatividad?",
+        "opciones": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande?",
+        "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué país se originó el juego de mesa ajedrez?",
+        "opciones": ["India", "China", "Rusia", "Japón"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+        "opciones": ["George Washington", "Thomas Jefferson", "John Adams", "James Madison"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": ["Melbourne", "Sídney", "Brisbane", "Camberra"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Qué animal aparece en el logo de la marca Lacoste?",
+        "opciones": ["Cocodrilo", "Tigre", "León", "Jirafa"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué continente se encuentra el río Nilo?",
+        "opciones": ["Asia", "Europa", "África", "Oceanía"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién escribió la obra 'Romeo y Julieta'?",
+        "opciones": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la moneda oficial de Japón?",
+        "opciones": ["Yen", "Dólar", "Euro", "Libra esterlina"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": ["Desierto del Sahara", "Desierto de Arabia", "Desierto de Gobi", "Desierto de Kalahari"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Rusia?",
+        "opciones": ["San Petersburgo", "Moscú", "Novosibirsk", "Ekaterimburgo"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": ["Marte", "Tierra", "Venus", "Mercurio"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Mario Vargas Llosa", "Gabriel García Márquez", "Pablo Neruda", "Julio Cortázar"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Qué elemento químico tiene el símbolo O?",
+        "opciones": ["Osmio", "Oro", "Oxígeno", "Plata"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": ["Canadá", "China", "Rusia", "Estados Unidos"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Quién desarrolló la teoría de la relatividad?",
+        "opciones": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Stephen Hawking"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+        "opciones": ["Inglés", "Español", "Chino mandarín", "Hindú"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué país tiene la mayor población?",
+        "opciones": ["India", "Estados Unidos", "Indonesia", "China"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Cuál es el libro sagrado del Islam?",
+        "opciones": ["Torá", "Biblia", "Corán", "Vedas"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué continente se encuentra Egipto?",
+        "opciones": ["Asia", "África", "Europa", "América"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el instrumento musical más grande de una orquesta?",
+        "opciones": ["Piano", "Contrabajo", "Trompeta", "Timbal"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del científico que formuló la ley de la gravedad?",
+        "opciones": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "James Clerk Maxwell"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué país es conocido como la tierra del sol naciente?",
+        "opciones": ["China", "Japón", "Corea del Sur", "Vietnam"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué gas es esencial para la respiración de los seres humanos?",
+        "opciones": ["Hidrógeno", "Nitrógeno", "Oxígeno", "Dióxido de carbono"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el monumento más famoso de Francia?",
+        "opciones": ["Torre Eiffel", "Coliseo", "Big Ben", "Sagrada Familia"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué ciudad es la capital de España?",
+        "opciones": ["Barcelona", "Valencia", "Sevilla", "Madrid"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Cuál es el animal más rápido del mundo?",
+        "opciones": ["León", "Guepardo", "Halcón peregrino", "Antílope"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué tipo de animal es la ballena?",
+        "opciones": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+        "correcta": 2
+    }
+]
+

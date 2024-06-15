@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Platero",
+        "correctas": 9,
+        "incorrectas": 2,
+        "comodines_usados": 1
+    },
+    {
+        "nombre": "Platero",
+        "correctas": 11,
+        "incorrectas": 7,
+        "comodines_usados": 2
+    },
+    {
+        "nombre": "Minero",
+        "correctas": 7,
+        "incorrectas": 2,
+        "comodines_usados": 0
+    }
+]

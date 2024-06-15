@@ -1,0 +1,207 @@
+[
+    {
+        "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+        "opciones": ["Italia", "España", "Francia", "Alemania"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "opciones": ["Hierro", "Aluminio", "Cobre", "Plomo"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Quién fue el primer ser humano en viajar al espacio?",
+        "opciones": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué año marcó el fin de la Segunda Guerra Mundial?",
+        "opciones": ["1945", "1940", "1950", "1939"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué año se inauguró el Canal de Panamá?",
+        "opciones": ["1904", "1914", "1924", "1934"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el idioma más antiguo del mundo?",
+        "opciones": ["Hebreo", "Tamil", "Sánscrito", "Griego"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué país tiene forma de bota?",
+        "opciones": ["Italia", "España", "Francia", "Alemania"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el edificio más alto del mundo en la actualidad?",
+        "opciones": ["Burj Khalifa", "Shanghai Tower", "Abraj Al Bait Clock Tower", "One World Trade Center"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de la República Popular China?",
+        "opciones": ["Mao Zedong", "Chiang Kai-shek", "Sun Yat-sen", "Deng Xiaoping"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": ["Piel", "Hígado", "Intestino", "Pulmón"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la famosa ópera de Sidney?",
+        "opciones": ["Australia", "Nueva Zelanda", "Canadá", "Estados Unidos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién escribió 'El principito'?",
+        "opciones": ["Antoine de Saint-Exupéry", "Julio Cortázar", "Gabriel García Márquez", "Jorge Luis Borges"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Qué elemento químico tiene el símbolo 'P'?",
+        "opciones": ["Plomo", "Potasio", "Fósforo", "Paladio"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el animal más grande del planeta?",
+        "opciones": ["Elefante africano", "Ballena azul", "Tiburón ballena", "Oso polar"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+        "opciones": ["Australia", "Brasil", "Filipinas", "México"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "opciones": ["Julio César", "Augusto", "Nerón", "Trajano"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el libro más vendido de la historia después de la Biblia?",
+        "opciones": ["El Señor de los Anillos", "El Alquimista", "Harry Potter y la piedra filosofal", "Don Quijote de la Mancha"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Cuál es el instrumento musical más antiguo del mundo?",
+        "opciones": ["Flauta", "Arpa", "Tambor", "Lira"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué año se produjo la Revolución Rusa?",
+        "opciones": ["1917", "1905", "1922", "1930"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Mongolia?",
+        "opciones": ["Astana", "Tiflis", "Ulán Bator", "Ereván"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué año cayó el Muro de Berlín?",
+        "opciones": ["1987", "1989", "1991", "1993"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+        "opciones": ["Indonesia", "Filipinas", "Suecia", "Canadá"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién es el autor de 'Cien años de soledad'?",
+        "opciones": ["Mario Vargas Llosa", "Julio Cortázar", "Gabriel García Márquez", "Pablo Neruda"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": ["Hígado", "Pulmón", "Cerebro", "Piel"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿En qué año ocurrió la Revolución Francesa?",
+        "opciones": ["1776", "1789", "1812", "1848"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+        "opciones": ["Hierro", "Oxígeno", "Silicio", "Aluminio"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el país con más Patrimonios de la Humanidad de la UNESCO?",
+        "opciones": ["China", "Italia", "España", "Francia"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué pintor es conocido por cortar su propia oreja?",
+        "opciones": ["Pablo Picasso", "Salvador Dalí", "Vincent van Gogh", "Claude Monet"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién desarrolló la teoría de la evolución por selección natural?",
+        "opciones": ["Gregor Mendel", "Charles Darwin", "Alfred Russel Wallace", "Jean-Baptiste Lamarck"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el país más poblado de África?",
+        "opciones": ["Egipto", "Etiopía", "Nigeria", "Sudáfrica"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "opciones": ["Au", "Ag", "Fe", "Pb"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué emperador romano hizo construir un enorme muro en el norte de Inglaterra?",
+        "opciones": ["Augusto", "Trajano", "Adriano", "Nerón"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué año se fundó la ONU?",
+        "opciones": ["1919", "1939", "1945", "1950"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién es el autor de la teoría de la gravedad?",
+        "opciones": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Nikola Tesla"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué arquitecto diseñó la Sagrada Familia en Barcelona?",
+        "opciones": ["Frank Lloyd Wright", "Le Corbusier", "Antoni Gaudí", "Santiago Calatrava"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la ciudad de Petra?",
+        "opciones": ["Egipto", "Jordania", "Arabia Saudita", "Irak"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
+        "opciones": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué vitamina se produce en la piel al tomar el sol?",
+        "opciones": ["Vitamina A", "Vitamina C", "Vitamina D", "Vitamina K"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el país más pequeño del mundo en términos de superficie?",
+        "opciones": ["Mónaco", "Nauru", "San Marino", "Ciudad del Vaticano"],
+        "correcta": 4
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "opciones": ["1775", "1776", "1777", "1781"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el libro más antiguo conocido?",
+        "opciones": ["La Epopeya de Gilgamesh", "La Biblia", "El libro de los muertos", "Los Vedas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién desarrolló la teoría de la evolución por selección natural?",
+        "opciones": ["Gregor Mendel", "Charles Darwin", "Jean-Baptiste Lamarck", "Alfred Russel Wallace"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el idioma oficial de Etiopía?",
+        "opciones": ["Amhárico", "Somalí", "Oromo", "Tigrinya"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué matemático introdujo el concepto de 'cero'?",
+        "opciones": ["Euclides", "Arquímedes", "Aryabhata", "Bhaskara I"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué año se lanzó el primer satélite artificial, el Sputnik?",
+        "opciones": ["1955", "1957", "1961", "1965"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Mongolia?",
+        "opciones": ["Ulan Bator", "Almaty", "Astaná", "Taskent"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué científico es conocido por sus trabajos sobre la radiactividad y ganó dos premios Nobel?",
+        "opciones": ["Marie Curie", "Isaac Newton", "Niels Bohr", "Ernest Rutherford"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el desierto más frío del mundo?",
+        "opciones": ["Desierto de Gobi", "Desierto de Atacama", "Desierto de la Antártida", "Desierto del Sahara"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué año se firmó el Tratado de Versalles?",
+        "opciones": ["1918", "1919", "1920", "1921"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Quién compuso la ópera 'La Flauta Mágica'?",
+        "opciones": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Richard Wagner"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el único mamífero capaz de volar?",
+        "opciones": ["Ardilla voladora", "Murciélago", "Colugo", "Petauro del azúcar"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué emperador romano dividió el Imperio en Oriente y Occidente?",
+        "opciones": ["Juliano", "Constantino", "Teodosio", "Diocleciano"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Cuál es la unidad de medida de la radiactividad?",
+        "opciones": ["Sievert", "Gray", "Becquerel", "Curie"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué autor escribió 'En busca del tiempo perdido'?",
+        "opciones": ["James Joyce", "Marcel Proust", "Franz Kafka", "Virginia Woolf"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Carbono", "Helio"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué año se construyó el Muro de Berlín?",
+        "opciones": ["1949", "1955", "1961", "1968"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+        "opciones": ["Sócrates", "Platón", "Aristóteles", "Heráclito"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién es conocido como el 'Padre de la Medicina'?",
+        "opciones": ["Hipócrates", "Galen", "Avicena", "Aristóteles"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+        "opciones": ["1776", "1789", "1804", "1812"],
+        "correcta": 2
+    },
+	{
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": ["Mónaco", "San Marino", "Vaticano", "Liechtenstein"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿En qué año se inauguró la Torre Eiffel?",
+        "opciones": ["1887", "1899", "1901", "1889"],
+        "correcta": 4
+    },
+    {
+        "pregunta": "¿Cuál es el nombre completo del cuadro 'La última cena' de Leonardo da Vinci?",
+        "opciones": ["La cena secreta", "La cena en la casa de Simón", "La última cena de Cristo", "La última cena de Jesús con los apóstoles"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Quién fue el primer científico en sugerir que la Tierra gira alrededor del Sol?",
+        "opciones": ["Galileo Galilei", "Nicolás Copérnico", "Isaac Newton", "Johannes Kepler"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué emperador romano fue conocido por su persecución a los cristianos?",
+        "opciones": ["Nerón", "Trajano", "Calígula", "Tiberio"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": ["India", "China", "Estados Unidos", "Indonesia"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué ciudad fue la capital de Japón antes de Tokio?",
+        "opciones": ["Kioto", "Osaka", "Nagoya", "Hiroshima"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué año se descubrió la penicilina?",
+        "opciones": ["1922", "1938", "1945", "1951"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos en ser impeached (juzgado políticamente)?",
+        "opciones": ["Bill Clinton", "Richard Nixon", "Andrew Johnson", "Donald Trump"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué elemento químico tiene el número atómico 92?",
+        "opciones": ["Uranio", "Plutonio", "Neptunio", "Torio"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el metal más denso?",
+        "opciones": ["Osmio", "Platino", "Iridio", "Tungsteno"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Quién escribió la novela 'Crimen y castigo'?",
+        "opciones": ["León Tolstói", "Fiódor Dostoyevski", "Antón Chéjov", "Iván Turguénev"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué año se fundó la ciudad de Roma?",
+        "opciones": ["753 a.C.", "402 a.C.", "208 a.C.", "95 a.C."],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la partícula subatómica más pesada?",
+        "opciones": ["Protón", "Electrón", "Neutrón", "Positrón"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el metal más reactivo?",
+        "opciones": ["Litio", "Sodio", "Potasio", "Rubidio"],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es la montaña más alta de Sudamérica?",
+        "opciones": ["Aconcagua", "Huascarán", "Sajama", "Chimborazo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué año se fundó la ciudad de Constantinopla?",
+        "opciones": ["330 d.C.", "476 d.C.", "527 d.C.", "610 d.C."],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+        "opciones": ["299,792,458 m/s", "300,000,000 m/s", "292,458,000 m/s", "300,458,000 m/s"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué imperio fue conquistado por los turcos otomanos en 1453?",
+        "opciones": ["Imperio Romano", "Imperio Bizantino", "Imperio Persa", "Imperio Mongol"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?",
+        "opciones": ["1918", "1919", "1920", "1921"],
+        "correcta": 2
+	}	
+]
